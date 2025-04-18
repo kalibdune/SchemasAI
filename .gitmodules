@@ -1,0 +1,12 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/kalibdune/SchemasAI-frontend.git
+	branch = main
+[submodule "backend"]
+	path = backend
+	url = https://github.com/kalibdune/SchemasAI-backend.git
+	branch = main
+[submodule "rag"]
+	path = rag
+	url = https://github.com/kalibdune/SchemasAI-RAG.git
+	branch = main
